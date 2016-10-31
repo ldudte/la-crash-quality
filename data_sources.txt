@@ -1,0 +1,10 @@
+% https://data.lacity.org/A-Livable-and-Sustainable-City/Road-Surface-Condition-Map/d9rz-k88a
+
+% https://data.lacity.org/A-Safe-City/LAPD-Crime-and-Collision-Raw-Data-for-2011/ftdn-8ftx
+% https://data.lacity.org/A-Safe-City/LAPD-Crime-and-Collision-Raw-Data-for-2012/ftdn-8ftx
+% https://data.lacity.org/A-Safe-City/LAPD-Crime-and-Collision-Raw-Data-for-2013/ftdn-8ftx
+% https://data.lacity.org/A-Safe-City/LAPD-Crime-and-Collision-Raw-Data-for-2014/ftdn-8ftx
+% https://data.lacity.org/A-Safe-City/LAPD-Crime-and-Collision-Raw-Data-for-2015/ftdn-8ftx
+% https://data.lacity.org/A-Safe-City/LAPD-Crime-and-Collision-Raw-Data-for-2016/ftdn-8ftx
+
+% https://data.lacity.org/A-Livable-and-Sustainable-City/City-Boundary-of-Los-Angeles/ppge-zfr4
